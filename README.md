@@ -20,8 +20,7 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheHangedManXII&repo=JXB_git_ws)](https://github.com/TheHangedManXII/JXB_git_ws)
-
+[![JXB_git_ws](https://github-readme-stats.vercel.app/api/pin?username=TheHangedManXII&repo=JXB_git_ws&theme=default_repocard)](https://github.com/TheHangedManXII/JXB_git_ws)
 
 
 
