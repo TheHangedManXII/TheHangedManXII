@@ -19,6 +19,3 @@
 </div>
 
 ### 💼 My projects
-<a href="https://github.com/TheHangedManXII/JXB_git_ws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHangedManXII&repo=JXB_git_ws&theme=buefy" />
-</a>
